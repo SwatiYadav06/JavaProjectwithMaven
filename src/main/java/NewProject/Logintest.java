@@ -18,7 +18,7 @@ public class Logintest {
         driver.findElement(By.id("login-password")).sendKeys("1234");
         driver.findElement(By.id("js-login-btn")).click();
         System.out.println("Title: " + driver.getTitle());  // Print page title
-
+// login page
         driver.close();
     }
 }
