@@ -1,4 +1,4 @@
-package Selnium_code;
+package Selenium_code;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
